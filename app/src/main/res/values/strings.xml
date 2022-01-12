@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Delivery manager</string>
+    <string name="data">NEW TASK</string>
+    <string name="task_name">task name...</string>
+    <string name="phone_number">phone number...</string>
+    <string name="city_name">city name...</string>
+    <string name="street_name">street name...</string>
+    <string name="street_number">street number...</string>
+    <string name="time_limit">time limit...</string>
+    <string name="cancel">CANCEL</string>
+    <string name="confirm">CONFIRM</string>
+</resources>
