@@ -33,7 +33,7 @@
                 android:layout_height="55dp"
                 android:background="#97000000"
                 android:gravity="center"
-                android:text="INCOMPLETED"
+                android:text="TASKS"
                 android:textColor="#ffffff"
                 android:textSize="37sp"
                 app:layout_constraintEnd_toEndOf="parent"

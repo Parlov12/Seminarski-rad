@@ -1,5 +1,6 @@
 package com.example.deliverymanager
 
+ // klasa koja sluzi za preglednost podataka pojedine adrese
 class Adress {
     private var streetName : String
     private var streetNumber: Int
